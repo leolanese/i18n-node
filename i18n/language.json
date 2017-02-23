@@ -1,0 +1,11 @@
+{
+	"brandName": "Leo Lanese Ltd",
+	"title": {
+		"en": "Welcome to the Node i18n Service",
+		"es": "Bienvenidos a el Servicio Node i18n"
+	 },
+	"description": {
+		"en": "We do code",
+		"es": "Hacemos codigo"	
+	 }
+}
